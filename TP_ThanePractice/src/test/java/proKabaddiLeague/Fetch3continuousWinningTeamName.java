@@ -1,27 +1,12 @@
 package proKabaddiLeague;
 
-import java.io.File;
 import java.time.Duration;
 import java.util.List;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.io.FileHandler;
-import org.openqa.selenium.support.ui.Select;
-import org.testng.annotations.Test;
-
-import com.comcast.crm.generic.fileutility.ExcelUtilityForFillForm;
-import com.comcast.crm.generic.fileutility.JavaUtility;
-import com.comcast.crm.generic.fileutility.WebDriverUtility;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-
 import org.testng.annotations.Test;
 
 public class Fetch3continuousWinningTeamName {

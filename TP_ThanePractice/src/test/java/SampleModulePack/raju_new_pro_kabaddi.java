@@ -26,6 +26,8 @@ public class raju_new_pro_kabaddi {
 			System.out.println(name.getText());
 		}
 		
+		System.out.println("Task Completed");
+		
 	}
 
 }

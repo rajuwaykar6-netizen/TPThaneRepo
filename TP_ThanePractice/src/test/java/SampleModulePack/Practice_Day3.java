@@ -12,6 +12,8 @@ public void practice() {
 		
 		System.out.println("New Statement Added");
 		
+		System.out.println("trial fr status");
+		
 	}
 
 }
